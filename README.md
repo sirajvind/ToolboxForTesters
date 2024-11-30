@@ -29,14 +29,17 @@ Automated testing enhances efficiency and accuracy in the QA process. This secti
 - **Selenium**: An open-source framework for web application testing across multiple browsers and platforms.
 - **Playwright**: A Node.js library to automate Chromium, Firefox, and WebKit with a single API.
 - **Cypress**: A JavaScript-based end-to-end testing framework built for modern web applications.
+- **Robot Framework**: A generic open-source automation framework for acceptance testing and robotic process automation (RPA).
+- **Appium**: An open-source tool for automating native, mobile web, and hybrid applications on iOS and Android platforms.
 - **TestComplete**: A functional UI testing tool for desktop, mobile, and web applications, supporting various scripting languages.
 
 ## Cloud-Based Testing Tools
 
 Cloud-based testing tools provide scalable and flexible testing environments accessible over the internet, allowing testers to perform tests on various devices and configurations without maintaining physical infrastructure.
 
-- **Katalon Studio**: An integrated platform offering features for web, API, mobile, and desktop application testing.
 - **BrowserStack**: A cloud-based testing platform for testing websites and mobile applications across various browsers, operating systems, and real devices.
+- **Sauce Labs**: A cloud-based platform for automated testing of web and mobile applications across various browsers and devices.
+- **Katalon Studio**: An integrated platform offering features for web, API, mobile, and desktop application testing
 
 ## API Testing Tools
 
@@ -44,17 +47,19 @@ API testing tools help testers validate the functionality, performance, and secu
 
 - **Postman**: A collaboration platform for API development, offering tools for designing, testing, and monitoring APIs.
 - **Insomnia**: A powerful REST API client with cookie management, environment variables, code generation, and authentication for Mac, Windows, and Linux.
+- **SoapUI**: A tool for testing SOAP and REST APIs with advanced features for functional testing, load testing, and security testing.
 
 ## Performance Testing Tools
 
 Performance testing ensures applications can handle expected load and stress conditions. This section includes tools that assess application performance:
 
 - **Apache JMeter**: An open-source tool designed for load testing and measuring performance.
-- **LoadRunner**: A performance testing tool for examining system behavior under load.
 - **K6**: An open-source load testing tool and SaaS for engineering teams to test the performance of their systems.
-- **BlazeMeter**: A continuous testing platform for DevOps, providing performance and load testing for APIs, mobile apps, and websites.
 - **Gatling**: An open-source load and performance testing framework based on Scala, Akka, and Netty.
 - **Locust**: An open-source load testing tool that allows you to define user behavior with Python code and swarm your system with millions of simultaneous users.
+- **BlazeMeter**: A continuous testing platform for DevOps, providing performance and load testing for APIs, mobile apps, and websites.
+- **LoadRunner**: A performance testing tool for examining system behavior under load..
+- **Lighthouse**: An open-source, automated tool for improving the quality of web pages, providing audits for performance, accessibility, and more.
 
 ## Security Testing Tools
 
@@ -62,6 +67,7 @@ Security testing identifies vulnerabilities to protect applications from threats
 
 - **OWASP ZAP**: An open-source tool for finding vulnerabilities in web applications.
 - **Burp Suite**: A comprehensive platform for security testing of web applications.
+- **Netsparker**: An automated web application security scanner that identifies vulnerabilities and security flaws.
 
 ## Continuous Integration/Continuous Deployment (CI/CD) Tools
 
@@ -72,6 +78,7 @@ CI/CD tools automate the software release process, integrating testing into the 
 - **BitBucket**: A Git repository management solution designed for professional teams, offering CI/CD through Bitbucket Pipelines.
 - **Jenkins**: An open-source automation server that enables continuous integration and delivery.
 - **CircleCI**: A CI/CD platform that automates software builds, tests, and deployments.
+- **Travis CI**: A continuous integration service used to build and test software projects hosted on GitHub.
 
 ## Agile Management Tools
 
@@ -81,6 +88,7 @@ Agile management tools support agile methodologies by facilitating project plann
 - **Miro**: An online collaborative whiteboard platform to bring teams together, anytime, anywhere.
 - **Trello**: A visual tool for organizing your work and life, offering boards, lists, and cards for project management.
 - **ClickUp**: An all-in-one project management platform that eliminates the need for multiple tools for task management, docs, goals, and more.
+- **Asana**: A web and mobile application designed to help teams organize, track, and manage their work.
 
 ## Defect/Bug Management Tools
 
@@ -88,6 +96,7 @@ Defect/bug management tools help teams track, manage, and resolve software defec
 
 - **Bugzilla**: An open-source bug tracking system that allows developers to keep track of outstanding bugs in their product.
 - **JamDev**: A platform with a browser extension that enables software teams to capture, log, and track developer-ready bug reports.
+- **MantisBT**: An open-source bug tracking system that provides a simple and user-friendly interface.
 
 ## Test Management Tools
 
@@ -95,7 +104,7 @@ Test management tools organize and manage test cases, plans, and execution. This
 
 - **qTest**: A robust test management solution designed to help teams manage testing activities.
 - **TestRail**: A web-based test case management tool to manage, track, and organize software testing efforts.
-- **Xray**:
+- **Xray**: A Jira plugin for managing manual and automated tests, integrating seamlessly with Jira to provide a comprehensive test management solution.
 
 ## Code Quality and Static Analysis Tools
 
@@ -103,6 +112,7 @@ These tools analyze code to ensure it meets quality standards and is free of def
 
 - **SonarQube**: An open-source platform for continuous inspection of code quality.
 - **Parasoft C/C++test**: An integrated set of tools for testing C and C++ source code.
+- **ESLint**: A static code analysis tool for identifying problematic patterns found in JavaScript code.
 
 ## Collaboration and Communication Tools
 
@@ -111,12 +121,18 @@ Effective collaboration is vital for QA teams. This section includes tools that 
 - **Slack**: A messaging app for teams that facilitates communication and collaboration.
 - **Microsoft Teams**: A collaboration platform that combines workplace chat, meetings, and file sharing.
 - **Google Meet**: A video-communication service developed by Google, offering secure and easy-to-join online meetings.
+- **Zoom**: A video conferencing tool that offers online meetings, chat, and collaboration features.
 
 ## Learning Resources
 
 Provide resources to help testers enhance their skills:
 
-- 
+- **Ministry of Testing**: A community-driven platform offering articles, courses, and events for software testers.
+- **Test Automation University**: Free courses on test automation from industry experts.
+- **Software Testing Help**: Tutorials, guides, and resources for software testing professionals.
+- **Guru99**: Comprehensive tutorials on various software testing topics.
+- **Udemy**: An online learning platform with courses on various software testing topics.
+- **Coursera**: Offers courses and specializations in software testing from top universities and companies.
 
 ## Templates and Checklists
 
